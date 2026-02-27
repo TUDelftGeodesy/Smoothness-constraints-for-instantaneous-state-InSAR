@@ -8,7 +8,7 @@ A simulation tool that allows adjustment of the velocity standard deviation and 
 - `README.md`
 
 ## Environment Setup
-- Python **3.10** or **3.11**
+- Python >=**3.10**
 - Jupyter Notebook
 
 ### Option 1: Using `conda` (recommended)
